@@ -1,0 +1,3 @@
+Patient's Name: Mahin
+Patient's Age: 12
+Prescription: Tab NAPA 
